@@ -39,5 +39,4 @@ jspm_packages
 # intellij
 
 .idea
-lib/*
 tsconfig.tsbuildinfo
